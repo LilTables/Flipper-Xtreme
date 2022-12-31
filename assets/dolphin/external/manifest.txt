@@ -210,3 +210,45 @@ Max butthurt: 14
 Min level: 30
 Max level: 30
 Weight: 7
+
+Name: mine
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
+
+Name: mine2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
+
+Name: blow2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
+
+Name: blow3
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
+
+Name: blow4
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
+
+Name: blow5
+Min butthurt: 0
+Max butthurt: 14
+Min level: 30
+Max level: 30
+Weight: 7
