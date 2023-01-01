@@ -106,8 +106,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 <h3> Web Updater / Mobile App / Automatic qFlipper Update</h3>
 
 - Go to the latest release from [The releases tab](https://github.com/ClaraCrazy/Flipper-Xtreme/releases/latest)
-- Download the .tgz file
-- Run your updater of choice with it
+- Click the "Web Updater" Button
 
 - Enjoy!
 <br>
@@ -148,4 +147,10 @@ $ ./fbt resources icons dolphin_ext
 ```
 
 ----
-<p align="center"> We're not waiting for a war... We bring the war to them! </p>
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ClaraCrazy/Flipper-Xtreme.svg)](https://starchart.cc/ClaraCrazy/Flipper-Xtreme)
+
+
+----
+<p align="center"> "What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pike </p>
