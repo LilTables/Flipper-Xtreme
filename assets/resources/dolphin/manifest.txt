@@ -15,6 +15,27 @@ Min level: 1
 Max level: 30
 Weight: 8
 
+Name: ahegao3
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ass
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ass2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: blow
 Min butthurt: 0
 Max butthurt: 14
@@ -57,14 +78,7 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: lvl_12
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
-Name: mine2
+Name: strip
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
