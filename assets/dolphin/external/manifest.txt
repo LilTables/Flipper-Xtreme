@@ -8,6 +8,27 @@ Min level: 1
 Max level: 30
 Weight: 8
 
+Name: bounce
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: bounce2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ahegao
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: ahegao2
 Min butthurt: 0
 Max butthurt: 14
@@ -30,6 +51,20 @@ Max level: 30
 Weight: 8
 
 Name: ass2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ass3
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ass4
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -72,6 +107,20 @@ Max level: 30
 Weight: 8
 
 Name: drop
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: drop2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: drop3
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
