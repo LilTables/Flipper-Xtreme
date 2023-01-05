@@ -56,7 +56,7 @@ Text: all gone!
 AlignH: Center
 AlignV: Top
 StartFrame: 109
-EndFrame: 113
+EndFrame: 112
 
 Slot: 3
 X: 60
@@ -83,7 +83,7 @@ Text: ahhhh!
 AlignH: Center
 AlignV: Top
 StartFrame: 109
-EndFrame: 113
+EndFrame: 112
 
 Slot: 4
 X: 60
